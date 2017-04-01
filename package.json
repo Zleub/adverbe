@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Zleub/adverbe#readme",
   "dependencies": {
-    "adventure": "file:../adventure",
+    "workshopper-adventure": "file:../workshopper-adventure",
     "shell-work": "file:../shell-work"
   }
 }
