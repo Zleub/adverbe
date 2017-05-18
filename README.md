@@ -9,6 +9,7 @@ Install it from [nodejs.org](https://nodejs.org/en/)
 ## Install Dependencies
 
 ```
+cd adverbe
 git clone https://github.com/workshopper/workshopper-adventure.git ../workshopper-adventure
 git clone https://github.com/Zleub/shell-work.git ../shell-work
 npm install
